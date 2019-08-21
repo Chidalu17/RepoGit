@@ -1,0 +1,230 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.databinding:databinding-adapters:3.4.2] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\f46802cf365ad96153202b50775dbfb6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.4.2] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\8f30851bd144d2709c593716debc834b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\71a3258ef44dc6088011b9a5c185f0c1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\fb086768d772d6f5c15512b666595738\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\37ab19303cef26f5f69009fbb19dc8fb\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\a74534bfc85117c73efac7dce877749f\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\3548f5426f2520f1bb8f63b57e88ed0b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\c8a6afe5c0a3b61c7698b75ecf771a99\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.room:room-runtime:2.2.0-alpha02] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\b5be87180916567ef56edb1facdc2d4c\AndroidManifest.xml:17:1-30:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\0a0b5feab2e3e1f16239c6d57a0a31f5\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\3f245f6f237f6438ede3b0d4d9400075\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\3ae7ae64108c4efb8c7257225f35cb65\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\8b2c617285b69bd95a1cd3a65314e060\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\855997c9d0c2c504c8469fc7826c420e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\2983df657266e2ec59946df594790aa7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\60c67564a382d46fbd6ea4267749511a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\0fd9ca91bbb79363e000895b2f7c6f05\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\4fcb96d0ceaf98c0e2773e3b902b17a8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\283c0fab93aad0e745719bcc82aad1c5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\4880b01ef816cf201ef0c92039ba5b69\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\6cf3832436b02f9244ae339da5d39d17\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\1d252e8a56d169b5f131e6fc71f70b3c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\31de4445c95a11e50ad857f0863994fe\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\6b471c48b3ba94a37fd666abcca59808\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\7673d257111157dd4b91ddbd52f124f0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\075c3be3f43db7726cd2b2ccf964b039\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.2] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\5c01fb3da1da529f2d3bdac3617c9bff\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\653b4918bce9a1adcb56004683fddfac\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\c8811a76e194b9f22c02cd5ff62deb6b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\37bd42125ef9688119855c8be2599a88\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\80f3f527250b85a62b4de488f9b0896f\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\8d93606ff77c0e6c508fd0743dee80ec\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\66b971dcdae45914636c0a82d6ea49f2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\15809431bba36976e55ca959d84e75d9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\5baae7291ba66f49599e23527d96e724\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\93bcd95925d1688f617b0739fc7997c5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\0f3629fc1aaf9b90aab4ee37ced80824\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\7b925e9aaab8eb961ab38daca0ba18fe\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\a27b9de991d353c8868fe0a7ac34d36f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\6d75fa4df428aa257043dbad91386efd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\854a59b49d76201719a3f0de487658c3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\74916570ab4127fbca2d764a6aa3bead\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\29cdf212f77a2fd793063a140325c2ee\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml:3:11-40
+		INJECTED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml:7:5-21:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\71a3258ef44dc6088011b9a5c185f0c1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\71a3258ef44dc6088011b9a5c185f0c1\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\a74534bfc85117c73efac7dce877749f\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\a74534bfc85117c73efac7dce877749f\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\c8a6afe5c0a3b61c7698b75ecf771a99\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\c8a6afe5c0a3b61c7698b75ecf771a99\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.room:room-runtime:2.2.0-alpha02] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\b5be87180916567ef56edb1facdc2d4c\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.room:room-runtime:2.2.0-alpha02] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\b5be87180916567ef56edb1facdc2d4c\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.core:core:1.0.2] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\5c01fb3da1da529f2d3bdac3617c9bff\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.2] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\5c01fb3da1da529f2d3bdac3617c9bff\AndroidManifest.xml:22:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\653b4918bce9a1adcb56004683fddfac\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\653b4918bce9a1adcb56004683fddfac\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\80f3f527250b85a62b4de488f9b0896f\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\80f3f527250b85a62b4de488f9b0896f\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.2] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\5c01fb3da1da529f2d3bdac3617c9bff\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml:12:13-39
+	android:label
+		ADDED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml:10:13-45
+	android:roundIcon
+		ADDED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml:11:13-58
+	android:icon
+		ADDED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml:9:13-47
+	android:allowBackup
+		ADDED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml:8:13-39
+	android:theme
+		ADDED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml:13:13-44
+activity#com.example.repogit.ui.repo.RepoListActivity
+ADDED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml:14:19-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml:16:17-68
+	android:name
+		ADDED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml:18:17-76
+	android:name
+		ADDED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.4.2] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\f46802cf365ad96153202b50775dbfb6\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.4.2] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\f46802cf365ad96153202b50775dbfb6\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.2] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\8f30851bd144d2709c593716debc834b\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.2] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\8f30851bd144d2709c593716debc834b\AndroidManifest.xml:22:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\71a3258ef44dc6088011b9a5c185f0c1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\71a3258ef44dc6088011b9a5c185f0c1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\fb086768d772d6f5c15512b666595738\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\fb086768d772d6f5c15512b666595738\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\37ab19303cef26f5f69009fbb19dc8fb\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\37ab19303cef26f5f69009fbb19dc8fb\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\a74534bfc85117c73efac7dce877749f\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\a74534bfc85117c73efac7dce877749f\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\3548f5426f2520f1bb8f63b57e88ed0b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\3548f5426f2520f1bb8f63b57e88ed0b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\c8a6afe5c0a3b61c7698b75ecf771a99\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\c8a6afe5c0a3b61c7698b75ecf771a99\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.2.0-alpha02] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\b5be87180916567ef56edb1facdc2d4c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.0-alpha02] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\b5be87180916567ef56edb1facdc2d4c\AndroidManifest.xml:20:5-22:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\0a0b5feab2e3e1f16239c6d57a0a31f5\AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\0a0b5feab2e3e1f16239c6d57a0a31f5\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\3f245f6f237f6438ede3b0d4d9400075\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\3f245f6f237f6438ede3b0d4d9400075\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\3ae7ae64108c4efb8c7257225f35cb65\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\3ae7ae64108c4efb8c7257225f35cb65\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\8b2c617285b69bd95a1cd3a65314e060\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\8b2c617285b69bd95a1cd3a65314e060\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\855997c9d0c2c504c8469fc7826c420e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\855997c9d0c2c504c8469fc7826c420e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\2983df657266e2ec59946df594790aa7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\2983df657266e2ec59946df594790aa7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\60c67564a382d46fbd6ea4267749511a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\60c67564a382d46fbd6ea4267749511a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\0fd9ca91bbb79363e000895b2f7c6f05\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\0fd9ca91bbb79363e000895b2f7c6f05\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\4fcb96d0ceaf98c0e2773e3b902b17a8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\4fcb96d0ceaf98c0e2773e3b902b17a8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\283c0fab93aad0e745719bcc82aad1c5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\283c0fab93aad0e745719bcc82aad1c5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\4880b01ef816cf201ef0c92039ba5b69\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\4880b01ef816cf201ef0c92039ba5b69\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\6cf3832436b02f9244ae339da5d39d17\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\6cf3832436b02f9244ae339da5d39d17\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\1d252e8a56d169b5f131e6fc71f70b3c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\1d252e8a56d169b5f131e6fc71f70b3c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\31de4445c95a11e50ad857f0863994fe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\31de4445c95a11e50ad857f0863994fe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\6b471c48b3ba94a37fd666abcca59808\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\6b471c48b3ba94a37fd666abcca59808\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\7673d257111157dd4b91ddbd52f124f0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\7673d257111157dd4b91ddbd52f124f0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\075c3be3f43db7726cd2b2ccf964b039\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\075c3be3f43db7726cd2b2ccf964b039\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\5c01fb3da1da529f2d3bdac3617c9bff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\5c01fb3da1da529f2d3bdac3617c9bff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\653b4918bce9a1adcb56004683fddfac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\653b4918bce9a1adcb56004683fddfac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\c8811a76e194b9f22c02cd5ff62deb6b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\c8811a76e194b9f22c02cd5ff62deb6b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\37bd42125ef9688119855c8be2599a88\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\37bd42125ef9688119855c8be2599a88\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\80f3f527250b85a62b4de488f9b0896f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\80f3f527250b85a62b4de488f9b0896f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\8d93606ff77c0e6c508fd0743dee80ec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\8d93606ff77c0e6c508fd0743dee80ec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\66b971dcdae45914636c0a82d6ea49f2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\66b971dcdae45914636c0a82d6ea49f2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\15809431bba36976e55ca959d84e75d9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\15809431bba36976e55ca959d84e75d9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\5baae7291ba66f49599e23527d96e724\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\5baae7291ba66f49599e23527d96e724\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\93bcd95925d1688f617b0739fc7997c5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\93bcd95925d1688f617b0739fc7997c5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\0f3629fc1aaf9b90aab4ee37ced80824\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\0f3629fc1aaf9b90aab4ee37ced80824\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\7b925e9aaab8eb961ab38daca0ba18fe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\7b925e9aaab8eb961ab38daca0ba18fe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\a27b9de991d353c8868fe0a7ac34d36f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\a27b9de991d353c8868fe0a7ac34d36f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\6d75fa4df428aa257043dbad91386efd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\6d75fa4df428aa257043dbad91386efd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\854a59b49d76201719a3f0de487658c3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\854a59b49d76201719a3f0de487658c3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\74916570ab4127fbca2d764a6aa3bead\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\74916570ab4127fbca2d764a6aa3bead\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\29cdf212f77a2fd793063a140325c2ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\29cdf212f77a2fd793063a140325c2ee\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Public\Android\RepoGit2\app\src\main\AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.0-alpha02] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\b5be87180916567ef56edb1facdc2d4c\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.0-alpha02] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\b5be87180916567ef56edb1facdc2d4c\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.0-alpha02] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\b5be87180916567ef56edb1facdc2d4c\AndroidManifest.xml:26:13-74
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\653b4918bce9a1adcb56004683fddfac\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\653b4918bce9a1adcb56004683fddfac\AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\653b4918bce9a1adcb56004683fddfac\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\653b4918bce9a1adcb56004683fddfac\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\OKEKE CHIDALU\.gradle\caches\transforms-2\files-2.1\653b4918bce9a1adcb56004683fddfac\AndroidManifest.xml:24:13-79

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Public\\Android\\RepoGit2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_repo_list.xml",
+        "source": "C:\\Users\\Public\\Android\\RepoGit2\\app\\src\\main\\res\\layout\\activity_repo_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Public\\Android\\RepoGit2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_list.xml",
+        "source": "C:\\Users\\Public\\Android\\RepoGit2\\app\\src\\main\\res\\layout\\item_list.xml"
+    }
+]

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RepoGit</string>
+    <string name="post_error">An error occured while loading post</string>
+    <string name="retry">Retry</string>
+</resources>

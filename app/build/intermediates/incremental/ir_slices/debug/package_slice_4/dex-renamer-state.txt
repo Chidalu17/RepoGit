@@ -1,0 +1,4 @@
+#Tue Aug 20 09:43:17 PDT 2019
+base.0=C\:\\Users\\Public\\Android\\RepoGit2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex
